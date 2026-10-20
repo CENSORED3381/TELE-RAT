@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabRAT</string>
+    <string name="notif_title">Serviço de pesquisa ativo</string>
+    <string name="notif_text">Ambiente de laboratório isolado</string>
+</resources>
